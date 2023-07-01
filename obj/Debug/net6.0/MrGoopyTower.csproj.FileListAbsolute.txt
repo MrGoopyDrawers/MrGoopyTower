@@ -1,0 +1,10 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\bin\Debug\net6.0\MrGoopyTower.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\bin\Debug\net6.0\MrGoopyTower.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\obj\Debug\net6.0\MrGoopyTower.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\obj\Debug\net6.0\MrGoopyTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\obj\Debug\net6.0\MrGoopyTower.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\obj\Debug\net6.0\MrGoopyTower.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\obj\Debug\net6.0\MrGoopyTower.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\obj\Debug\net6.0\MrGoopyTower.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\obj\Debug\net6.0\refint\MrGoopyTower.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\MrGoopyTower\obj\Debug\net6.0\ref\MrGoopyTower.dll

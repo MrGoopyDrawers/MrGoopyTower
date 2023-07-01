@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>MrGoopyTower</RootNamespace>
+        <Configurations>Debug;Release</Configurations>
+        <Nullable>enable</Nullable>
+        <AssemblyName>MrGoopyTower</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <Optimize>False</Optimize>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+
+    <Import Project="..\btd6.targets" />
+
+    <ItemGroup>
+      <None Remove="boom.wav" />
+      <None Remove="bruh.wav" />
+      <None Remove="cantRun.png" />
+      <None Remove="carl.png" />
+      <None Remove="danger.png" />
+      <None Remove="dynamite.png" />
+      <None Remove="fart.png" />
+      <None Remove="freddy.png" />
+      <None Remove="goopyGod.png" />
+      <None Remove="grr.png" />
+      <None Remove="Icon.png" />
+      <None Remove="jamal.png" />
+      <None Remove="lemonadeStand.png" />
+      <None Remove="micheal.png" />
+      <None Remove="minigunner.png" />
+      <None Remove="morbinTime.wav" />
+      <None Remove="MrGoopy-Icon.png" />
+      <None Remove="MrGoopy-Portrait.png" />
+      <None Remove="rar.wav" />
+      <None Remove="rizz.wav" />
+      <None Remove="siren.wav" />
+      <None Remove="slapIcon.png" />
+      <None Remove="smartMonkey.png" />
+      <None Remove="strongMonkey.png" />
+    </ItemGroup>
+</Project>
